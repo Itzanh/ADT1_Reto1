@@ -1,0 +1,7 @@
+o Opción 1 – Funciona
+o Opción 2 – Funciona
+o Opción 3 – Funciona
+o Opción 4 –
+	A. Reducción – Funciona
+	B. Marca de agua – Funciona
+o Opción 5 – Seleccionar ficheros grafico, menu e imprimir coordenadas por consola y separado en clases
